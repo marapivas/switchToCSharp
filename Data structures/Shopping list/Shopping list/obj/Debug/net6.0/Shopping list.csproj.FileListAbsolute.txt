@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\Shopping list.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\Shopping list.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\Shopping list.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\Shopping list.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\ref\Shopping list.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\bin\Debug\net6.0\Shopping list.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\ref\Shopping list.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Shopping list\Shopping list\obj\Debug\net6.0\Shopping list.genruntimeconfig.cache

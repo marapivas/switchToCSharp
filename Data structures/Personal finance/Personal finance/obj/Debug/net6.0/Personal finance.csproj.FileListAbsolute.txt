@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\Personal finance.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\Personal finance.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\Personal finance.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\Personal finance.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\ref\Personal finance.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\bin\Debug\net6.0\Personal finance.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\ref\Personal finance.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Personal finance\Personal finance\obj\Debug\net6.0\Personal finance.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfb61608-885d-4ede-8049-3167e04efd74": {
+      "ProjectGuid": "bfb61608-885d-4ede-8049-3167e04efd74",
+      "DisplayName": "Personal finance",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

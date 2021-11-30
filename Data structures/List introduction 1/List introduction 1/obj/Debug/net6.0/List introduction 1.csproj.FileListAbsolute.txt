@@ -1,0 +1,15 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\List introduction 1.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\List introduction 1.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\List introduction 1.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\List introduction 1.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\ref\List introduction 1.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\bin\Debug\net6.0\List introduction 1.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\ref\List introduction 1.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.genruntimeconfig.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\List introduction 1\List introduction 1\obj\Debug\net6.0\List introduction 1.csproj.AssemblyReference.cache

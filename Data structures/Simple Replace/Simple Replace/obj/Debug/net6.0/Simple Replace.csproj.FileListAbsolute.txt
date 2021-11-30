@@ -1,0 +1,15 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\Simple Replace.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\Simple Replace.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\Simple Replace.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\Simple Replace.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\ref\Simple Replace.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\bin\Debug\net6.0\Simple Replace.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\ref\Simple Replace.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Simple Replace\Simple Replace\obj\Debug\net6.0\Simple Replace.genruntimeconfig.cache

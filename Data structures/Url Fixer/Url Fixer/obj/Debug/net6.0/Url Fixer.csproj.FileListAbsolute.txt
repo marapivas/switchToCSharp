@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\Url Fixer.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\Url Fixer.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\Url Fixer.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\Url Fixer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\ref\Url Fixer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\bin\Debug\net6.0\Url Fixer.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\ref\Url Fixer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Url Fixer\Url Fixer\obj\Debug\net6.0\Url Fixer.genruntimeconfig.cache

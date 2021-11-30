@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\Takes Longer.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\Takes Longer.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\Takes Longer.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\Takes Longer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\ref\Takes Longer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\bin\Debug\net6.0\Takes Longer.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\ref\Takes Longer.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Takes Longer\Takes Longer\obj\Debug\net6.0\Takes Longer.genruntimeconfig.cache

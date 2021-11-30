@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Takes Longer/1.0.0": {
+        "runtime": {
+          "Takes Longer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Takes Longer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

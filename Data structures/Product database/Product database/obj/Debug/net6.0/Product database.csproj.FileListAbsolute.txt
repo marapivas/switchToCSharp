@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\Product database.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\Product database.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\Product database.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\Product database.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\ref\Product database.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\bin\Debug\net6.0\Product database.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\ref\Product database.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Product database\Product database\obj\Debug\net6.0\Product database.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\Todo Print.exe
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\Todo Print.deps.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\Todo Print.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\Todo Print.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\ref\Todo Print.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\bin\Debug\net6.0\Todo Print.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\ref\Todo Print.dll
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.pdb
+C:\Users\marek\Desktop\GFA C#\Data structures\Todo Print\Todo Print\obj\Debug\net6.0\Todo Print.genruntimeconfig.cache
