@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f264d0a2-948d-4c68-8ddc-9b598cdc93c3": {
+      "ProjectGuid": "f264d0a2-948d-4c68-8ddc-9b598cdc93c3",
+      "DisplayName": "ConditionalVariableMutation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\MileToKmConverter.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\MileToKmConverter.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\MileToKmConverter.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\MileToKmConverter.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\ref\MileToKmConverter.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\bin\Debug\net6.0\MileToKmConverter.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\ref\MileToKmConverter.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\MileToKmConverter\MileToKmConverter\obj\Debug\net6.0\MileToKmConverter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\HelloUser.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\HelloUser.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\HelloUser.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\HelloUser.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\ref\HelloUser.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\bin\Debug\net6.0\HelloUser.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\ref\HelloUser.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloUser\HelloUser\obj\Debug\net6.0\HelloUser.genruntimeconfig.cache

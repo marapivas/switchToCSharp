@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\FavoriteNumber.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\FavoriteNumber.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\FavoriteNumber.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\FavoriteNumber.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\ref\FavoriteNumber.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\bin\Debug\net6.0\FavoriteNumber.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\ref\FavoriteNumber.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\FavoriteNumber\FavoriteNumber\obj\Debug\net6.0\FavoriteNumber.genruntimeconfig.cache

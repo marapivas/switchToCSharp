@@ -1,0 +1,15 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ConditionalVariableMutation.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ConditionalVariableMutation.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ConditionalVariableMutation.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ConditionalVariableMutation.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ref\ConditionalVariableMutation.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\bin\Debug\net6.0\ConditionalVariableMutation.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ref\ConditionalVariableMutation.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\ConditionalVariableMutation\ConditionalVariableMutation\obj\Debug\net6.0\ConditionalVariableMutation.genruntimeconfig.cache

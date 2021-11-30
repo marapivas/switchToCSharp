@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\SecondsInADay.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\SecondsInADay.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\SecondsInADay.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\SecondsInADay.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\ref\SecondsInADay.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\bin\Debug\net6.0\SecondsInADay.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\ref\SecondsInADay.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\SecondsInADay\SecondsInADay\obj\Debug\net6.0\SecondsInADay.genruntimeconfig.cache

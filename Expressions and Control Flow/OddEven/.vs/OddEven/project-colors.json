@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a31c7e13-42e4-40ef-a470-afa19a088311": {
+      "ProjectGuid": "a31c7e13-42e4-40ef-a470-afa19a088311",
+      "DisplayName": "OddEven",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

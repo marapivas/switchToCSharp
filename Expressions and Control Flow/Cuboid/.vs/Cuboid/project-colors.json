@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e0ace42-05fd-4595-9979-5c4f194e191a": {
+      "ProjectGuid": "2e0ace42-05fd-4595-9979-5c4f194e191a",
+      "DisplayName": "Cuboid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

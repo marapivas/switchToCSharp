@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "021e6c30-295b-49fc-82c5-7323f597b87f": {
+      "ProjectGuid": "021e6c30-295b-49fc-82c5-7323f597b87f",
+      "DisplayName": "PrintBigger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\Bmi.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\Bmi.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\Bmi.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\Bmi.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\ref\Bmi.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\bin\Debug\net6.0\Bmi.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\ref\Bmi.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\Bmi\Bmi\obj\Debug\net6.0\Bmi.genruntimeconfig.cache

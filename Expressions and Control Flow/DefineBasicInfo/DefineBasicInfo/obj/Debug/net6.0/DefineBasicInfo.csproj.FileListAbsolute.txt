@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\DefineBasicInfo.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\DefineBasicInfo.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\DefineBasicInfo.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\DefineBasicInfo.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\ref\DefineBasicInfo.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\bin\Debug\net6.0\DefineBasicInfo.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\ref\DefineBasicInfo.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DefineBasicInfo\DefineBasicInfo\obj\Debug\net6.0\DefineBasicInfo.genruntimeconfig.cache

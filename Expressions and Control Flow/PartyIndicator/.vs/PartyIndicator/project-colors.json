@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8d36ee5-edaa-4cdd-ae2d-f34fec334a8f": {
+      "ProjectGuid": "b8d36ee5-edaa-4cdd-ae2d-f34fec334a8f",
+      "DisplayName": "PartyIndicator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\HumptyDumpty.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\HumptyDumpty.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\HumptyDumpty.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\HumptyDumpty.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\ref\HumptyDumpty.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\bin\Debug\net6.0\HumptyDumpty.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\ref\HumptyDumpty.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HumptyDumpty\HumptyDumpty\obj\Debug\net6.0\HumptyDumpty.genruntimeconfig.cache

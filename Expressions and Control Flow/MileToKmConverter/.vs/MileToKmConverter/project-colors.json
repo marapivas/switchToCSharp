@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "314348a1-fe50-47ee-920f-584cbed36172": {
+      "ProjectGuid": "314348a1-fe50-47ee-920f-584cbed36172",
+      "DisplayName": "MileToKmConverter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

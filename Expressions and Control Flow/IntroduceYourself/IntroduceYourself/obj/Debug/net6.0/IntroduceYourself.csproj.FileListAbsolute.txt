@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\IntroduceYourself.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\IntroduceYourself.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\IntroduceYourself.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\IntroduceYourself.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\ref\IntroduceYourself.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\bin\Debug\net6.0\IntroduceYourself.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\ref\IntroduceYourself.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IntroduceYourself\IntroduceYourself\obj\Debug\net6.0\IntroduceYourself.genruntimeconfig.cache

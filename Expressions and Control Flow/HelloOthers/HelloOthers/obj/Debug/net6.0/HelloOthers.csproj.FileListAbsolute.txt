@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\HelloOthers.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\HelloOthers.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\HelloOthers.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\HelloOthers.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\ref\HelloOthers.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\bin\Debug\net6.0\HelloOthers.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\ref\HelloOthers.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\HelloOthers\HelloOthers\obj\Debug\net6.0\HelloOthers.genruntimeconfig.cache
