@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\Double items.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\Double items.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\Double items.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\Double items.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\ref\Double items.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\bin\Debug\net6.0\Double items.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\ref\Double items.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Double items\Double items\obj\Debug\net6.0\Double items.genruntimeconfig.cache

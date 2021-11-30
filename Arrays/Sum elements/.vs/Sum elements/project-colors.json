@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88b1d386-059a-48d4-a6b8-b77c417500df": {
+      "ProjectGuid": "88b1d386-059a-48d4-a6b8-b77c417500df",
+      "DisplayName": "Sum elements",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

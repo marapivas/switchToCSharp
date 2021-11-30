@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\Compare Length.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\Compare Length.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\Compare Length.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\Compare Length.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\ref\Compare Length.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\bin\Debug\net6.0\Compare Length.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\ref\Compare Length.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Compare Length\Compare Length\obj\Debug\net6.0\Compare Length.genruntimeconfig.cache

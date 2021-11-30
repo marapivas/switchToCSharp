@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\Change element.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\Change element.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\Change element.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\Change element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\ref\Change element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\bin\Debug\net6.0\Change element.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\ref\Change element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Change element\Change element\obj\Debug\net6.0\Change element.genruntimeconfig.cache

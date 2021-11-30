@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\Sum elements.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\Sum elements.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\Sum elements.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\Sum elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\ref\Sum elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\bin\Debug\net6.0\Sum elements.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\ref\Sum elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Sum elements\Sum elements\obj\Debug\net6.0\Sum elements.genruntimeconfig.cache

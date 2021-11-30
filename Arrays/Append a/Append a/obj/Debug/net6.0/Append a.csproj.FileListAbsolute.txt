@@ -1,0 +1,15 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\Append a.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\Append a.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\Append a.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\Append a.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\ref\Append a.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\bin\Debug\net6.0\Append a.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\ref\Append a.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Append a\Append a\obj\Debug\net6.0\Append a.genruntimeconfig.cache

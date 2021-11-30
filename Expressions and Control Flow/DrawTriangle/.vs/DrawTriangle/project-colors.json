@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d703cd73-9cf8-46d6-9703-7a7effdfbd2c": {
+      "ProjectGuid": "d703cd73-9cf8-46d6-9703-7a7effdfbd2c",
+      "DisplayName": "DrawTriangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

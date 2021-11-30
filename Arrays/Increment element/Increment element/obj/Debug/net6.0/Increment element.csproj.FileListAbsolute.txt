@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\Increment element.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\Increment element.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\Increment element.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\Increment element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\ref\Increment element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\bin\Debug\net6.0\Increment element.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\ref\Increment element.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Increment element\Increment element\obj\Debug\net6.0\Increment element.genruntimeconfig.cache

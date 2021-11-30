@@ -1,0 +1,15 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\Third.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\Third.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\Third.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\Third.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\ref\Third.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\bin\Debug\net6.0\Third.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.csproj.AssemblyReference.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\ref\Third.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Third\Third\obj\Debug\net6.0\Third.genruntimeconfig.cache

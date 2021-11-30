@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba89acfa-c300-4c18-bc93-040e0635b400": {
+      "ProjectGuid": "ba89acfa-c300-4c18-bc93-040e0635b400",
+      "DisplayName": "Increment element",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

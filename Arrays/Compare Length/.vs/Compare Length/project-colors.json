@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce4f932b-3010-463b-9d86-f5f84961d033": {
+      "ProjectGuid": "ce4f932b-3010-463b-9d86-f5f84961d033",
+      "DisplayName": "Compare Length",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

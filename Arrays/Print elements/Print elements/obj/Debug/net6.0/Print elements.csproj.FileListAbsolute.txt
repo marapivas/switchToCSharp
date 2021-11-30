@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\Print elements.exe
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\Print elements.deps.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\Print elements.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\Print elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\ref\Print elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\bin\Debug\net6.0\Print elements.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\ref\Print elements.dll
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.pdb
+C:\Users\marek\Desktop\GFA C#\Arrays\Print elements\Print elements\obj\Debug\net6.0\Print elements.genruntimeconfig.cache
