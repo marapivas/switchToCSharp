@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\IWontCheatOnTheExams.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\IWontCheatOnTheExams.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\IWontCheatOnTheExams.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\IWontCheatOnTheExams.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\ref\IWontCheatOnTheExams.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\bin\Debug\net6.0\IWontCheatOnTheExams.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\ref\IWontCheatOnTheExams.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\IWontCheatOnTheExams\IWontCheatOnTheExams\obj\Debug\net6.0\IWontCheatOnTheExams.genruntimeconfig.cache

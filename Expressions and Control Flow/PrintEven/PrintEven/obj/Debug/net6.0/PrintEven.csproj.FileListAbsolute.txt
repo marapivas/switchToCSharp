@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\PrintEven.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\PrintEven.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\PrintEven.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\PrintEven.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\ref\PrintEven.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\bin\Debug\net6.0\PrintEven.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\ref\PrintEven.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\PrintEven\PrintEven\obj\Debug\net6.0\PrintEven.genruntimeconfig.cache

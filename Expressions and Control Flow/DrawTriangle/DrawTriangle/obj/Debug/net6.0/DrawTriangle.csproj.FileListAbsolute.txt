@@ -1,0 +1,14 @@
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.exe
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.deps.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.runtimeconfig.json
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\ref\DrawTriangle.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\bin\Debug\net6.0\DrawTriangle.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfoInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.AssemblyInfo.cs
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.csproj.CoreCompileInputs.cache
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\ref\DrawTriangle.dll
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.pdb
+C:\Users\marek\Desktop\GFA C#\Expressions and Control Flow\DrawTriangle\DrawTriangle\obj\Debug\net6.0\DrawTriangle.genruntimeconfig.cache
