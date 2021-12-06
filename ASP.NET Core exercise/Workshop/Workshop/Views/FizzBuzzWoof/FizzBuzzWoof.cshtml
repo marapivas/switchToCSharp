@@ -1,0 +1,28 @@
+﻿@model Workshop.Models.Greeting
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Getting Started: Serving Web Content</title>
+  </head>
+  <body>
+
+    @if (@Model.Id % 3 == 0 && @Model.Id % 5 == 0 && @Model.Id % 7 == 0)
+    {
+    <p style="font-size:72px;"> @Model.Content </p>
+    }
+    else if (@Model.Id % 3 == 0 && @Model.Id % 5 == 0 || @Model.Id % 5 == 0 && @Model.Id % 7 == 0 || @Model.Id % 7 == 0 && @Model.Id % 3 == 0)
+    {
+    <p style="font-size:48px;"> @Model.Content </p>
+    }
+    else if (@Model.Id % 3 == 0 || @Model.Id % 5 == 0 || @Model.Id % 7 == 0)
+    {
+    <p style="font-size:24px;"> @Model.Content </p>
+    }
+    else
+    {
+    <p style="font-size:16px;"> @Model.Content </p>
+    }
+
+  </body>
+</html>
