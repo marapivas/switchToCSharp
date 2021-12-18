@@ -1,0 +1,50 @@
+﻿@model Workshop2.Models.AssigneeViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Edit form</title>
+</head>
+<body>
+    
+     <form method="POST" action="edit">
+
+        <label>New name</label><br>
+        <input type="text" name="name" placeholder = "Your name..."><br>
+
+        <button type="submit">Submit</button>
+
+        <a href= "~/assignee">Cancel</a>
+    </form>
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    input{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: thin solid green;
+    }
+
+    button{
+        border-radius: 5px;
+    }
+
+
+
+
+</style>

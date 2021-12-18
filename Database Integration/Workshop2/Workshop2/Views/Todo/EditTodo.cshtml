@@ -1,0 +1,59 @@
+﻿@model Workshop2.Models.TodoViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Edit form</title>
+</head>
+<body>
+    
+     <form method="POST" action="edit">
+
+        <label>Todo Description</label><br>
+        <input type="text" name="description" placeholder = "Fill description..."><br>
+
+        <select name="assigneeId">
+            @foreach (var assignee in Model.AllAssignees)
+            {
+                <option value=@assignee.Id>@assignee.Name</option>
+            }
+        </select><br>
+
+        <label>Urgent</label>
+        <input type="checkbox" name="urgent" value = "true"><br>
+
+        <label>Done</label>
+        <input type="checkbox" name="done" value = "true"><br>
+
+        <button type="submit">Submit</button>
+        <a href= "~/todo">Cancel</a>
+    </form>
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    input{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: thin solid green;
+    }
+
+    button{
+        border-radius: 5px;
+    }
+
+</style>

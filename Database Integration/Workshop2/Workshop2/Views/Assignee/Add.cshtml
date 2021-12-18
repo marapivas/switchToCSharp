@@ -1,0 +1,51 @@
+﻿@model Workshop2.Models.AssigneeViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Add form</title>
+</head>
+<body>
+
+    <h1>New assignee</h1>
+    
+     <form method="POST" action="/assignee/add">
+        <label>Name</label><br>
+        <input type="text" name="name" placeholder = "Your name..."><br>
+
+        <label>Email</label><br>
+        <input type="email" name="email" placeholder = "Your email..."><br>
+
+        <label>Email confirm</label><br>
+        <input type="email" name="emailConfirm" placeholder = "Your email again..."><br>
+
+        <button type="submit">Add</button>
+    </form>
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    input{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: thin solid green;
+    }
+
+    button{
+        border-radius: 5px;
+    }
+</style>

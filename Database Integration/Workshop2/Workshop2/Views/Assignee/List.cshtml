@@ -1,0 +1,89 @@
+﻿@model Workshop2.Models.AssigneeViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>List</title>
+</head>
+<body>
+
+    <form method="POST" action="assignee/search">
+       
+        <label>Search</label><br>
+        <input type="text" name="input" placeholder = "Search...">
+
+        <button type="submit">Submit</button>
+        
+    </form>
+
+    <button><a href= "/todo/list">HOME</a></button>
+       
+    <h1>List of Assignees: </h1>
+
+    <a href="/assignee/add">Add new assignee</a>
+
+<table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+
+        @foreach (var item in Model.AllAssignees)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td><a href="~/assignee/@item.Id/show">@item.Name</a></td>
+                <td>@item.Email</td>
+                <td class = "link"><a href= "~/assignee/@item.Id/delete">DELETE</a></td>
+                <td class = "link"><a href= "~/assignee/@item.Id/edit">EDIT</a></td>
+            </tr>
+        }
+
+    </table>
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    td{
+        
+        border: thin solid green;
+        padding-left: 5px;
+    }
+
+    th{
+        
+        font-size:105%;
+    }
+
+    table{
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .link{
+        border: none;
+    }
+
+    button{
+        border-radius: 5px;
+    }
+
+    input{
+        border-radius: 5px;
+    }
+
+</style>
