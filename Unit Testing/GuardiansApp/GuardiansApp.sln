@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardiansApp", "GuardiansApp\GuardiansApp.csproj", "{45AE12C3-D768-4AE3-A380-AE40C668CD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuardiansAppTests", "GuardiansAppTests\GuardiansAppTests.csproj", "{42A1F3CF-F329-484D-8E88-0CB3AD7A56D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45AE12C3-D768-4AE3-A380-AE40C668CD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AE12C3-D768-4AE3-A380-AE40C668CD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AE12C3-D768-4AE3-A380-AE40C668CD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AE12C3-D768-4AE3-A380-AE40C668CD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42A1F3CF-F329-484D-8E88-0CB3AD7A56D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A1F3CF-F329-484D-8E88-0CB3AD7A56D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A1F3CF-F329-484D-8E88-0CB3AD7A56D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A1F3CF-F329-484D-8E88-0CB3AD7A56D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEB1FC6-9D2D-4A1E-AFB4-EB58862A8927}
+	EndGlobalSection
+EndGlobal
