@@ -13,7 +13,8 @@
        
     <h1>Awsome Mix</h1>
 
-    <button type="submit"><a href= "~/">HOME</a></button>
+    <button type="submit"><a class= "link" href= "~/">HOME</a></button>
+    <button type="submit"><a class= "link" href= "~/awsome/add">ADD New Song</a></button>
 
     <table>
         <tr>
@@ -35,6 +36,8 @@
                 <td>@item.Genre</td>
                 <td>@item.Year</td>
                 <td>@item.Rating</td>
+                <td class = "link"><a href= "~/awsome/delete/@item.Id">DELETE</a></td>
+                <td class = "link"><a href="~/awsome/edit/@item.Id">EDIT</a></td>
                 
             </tr>
         }
@@ -69,16 +72,33 @@
         width: 100%;
     }
 
-    .link{
+    button{
+        background: green;
         border: none;
+        border-radius: 5px;
+        margin-top: 3px;
+        color: white;
+        
     }
 
-    button{
-        border-radius: 5px;
+    button:hover {
+        background: GreenYellow;
+        color: black;
     }
 
     input{
+        border: thin green solid;
         border-radius: 5px;
+        margin-top: 3px;
+        
+    }
+
+    h2{
+        color: red;
+    }
+
+    .link {
+        border: none;
     }
 
 </style>

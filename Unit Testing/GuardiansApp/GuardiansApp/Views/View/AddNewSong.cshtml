@@ -1,6 +1,4 @@
-﻿@model GuardiansApp.Models.ViewModels.DraxViewModel
-
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -11,35 +9,23 @@
 </head>
 <body>
        
-    <h1>Edit food amount</h1>
+    <h1>Awsome Mix</h1>
 
     <button type="submit"><a href= "~/">HOME</a></button>
 
-    <button type="submit"><a href= "~/drax/add">ADD New Food</a></button>
+    <button type="submit"><a href= "~/awsome">BACK</a></button>
 
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Amount</th>
-            <th>Calorie</th>
-            
+    <form method="POST" action="/awsome/add">
 
-        </tr>
+        <label>New name</label><br>
+        <input type="text" name="author" placeholder = "Author..."><br>
+        <input type="text" name="title" placeholder = "Title..."><br>
+        <input type="text" name="genre" placeholder = "Genre..."><br>
+        <input type="text" name="year" placeholder = "Year..."><br>
+        <input type="text" name="rating" placeholder = "Rating..."><br>
+        <button type="submit">Submit</button>
 
-        @foreach (var item in Model.FoodListResponse.Foods)
-        {
-            <tr>
-                <td>@item.Id</td>
-                <td>@item.Name</td>
-                <td>@item.Amount</td>
-                <td>@item.Calorie</td>
-                <td class = "link"><a class= "link" href= "~/drax/delete/@item.Id">DELETE</a></td>
-                <td class = "link"><a class= "link" href="~/drax/edit/@item.Id">EDIT</a></td>
-            </tr>
-        }
-
-    </table>
+    </form>
 
 </body>
 </html>
@@ -93,10 +79,5 @@
     h2{
         color: red;
     }
-
-    .link {
-        border: none;
-    }
-
 
 </style>

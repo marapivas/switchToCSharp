@@ -45,7 +45,7 @@ namespace GuardiansApp.Services
         {
             
 
-            DbContext.Foods.Remove(DbContext.Foods.Where(f => f.Id == id).First());
+            DbContext.Foods.Remove(FindById(id));
             DbContext.SaveChanges();
 
             return GetAllItems();
@@ -55,6 +55,8 @@ namespace GuardiansApp.Services
         {
             Food editFood = FindById(id);
             editFood.Amount = amount;
+            DbContext.Foods.Update(editFood);
+            DbContext.SaveChanges();
 
             return GetAllItems();
         }

@@ -1,17 +1,11 @@
-using Autofac.Extras.Moq;
 using GuardiansApp;
-using GuardiansApp.Controllers;
-using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
-using GuardiansApp.Services;
 using Microsoft.AspNetCore.Mvc.Testing;
-using Moq;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace GuardiansAppTests
@@ -35,7 +29,7 @@ namespace GuardiansAppTests
             string expectedTranslated = "I am Groot!";
 
             //act
-            var response = HttpClient.GetAsync($"/groot?message={expectedReceived}").Result;
+            var response = HttpClient.GetAsync($"/api/groot?message={expectedReceived}").Result;
             string responseBodyContent = response.Content.ReadAsStringAsync().Result;
             Groot responseData = JsonConvert.DeserializeObject<Groot>(responseBodyContent);
 
@@ -53,7 +47,7 @@ namespace GuardiansAppTests
             string expectedError = "I am Groot!";
 
             //act
-            var response = HttpClient.GetAsync($"/groot").Result;
+            var response = HttpClient.GetAsync($"/api/groot").Result;
             string responseBodyContent = response.Content.ReadAsStringAsync().Result;
             ErrorResponse responseData = JsonConvert.DeserializeObject<ErrorResponse>(responseBodyContent);          
 
@@ -72,7 +66,7 @@ namespace GuardiansAppTests
             double expectedSpeed = 10.0;
 
             //act
-            var response = HttpClient.GetAsync($"/yondu?distance={expectedDistance}&time={expectedTime}").Result;
+            var response = HttpClient.GetAsync($"/api/yondu?distance={expectedDistance}&time={expectedTime}").Result;
             string responseBodyContent = response.Content.ReadAsStringAsync().Result;
             Yondu responseData = JsonConvert.DeserializeObject<Yondu>(responseBodyContent);
 
@@ -91,7 +85,7 @@ namespace GuardiansAppTests
             string expectedError = "You have to fill time";
 
             //act
-            var response = HttpClient.GetAsync($"/yondu").Result;
+            var response = HttpClient.GetAsync($"/api/yondu").Result;
             string responseBodyContent = response.Content.ReadAsStringAsync().Result;
             ErrorResponse responseData = JsonConvert.DeserializeObject<ErrorResponse>(responseBodyContent);
 
@@ -100,44 +94,28 @@ namespace GuardiansAppTests
             Assert.Equal(expectedError, responseData.Error);
         }
 
-        //[Fact]
-        //public void DraxTest_GetAllItems()
-        //{
-        //    var foods = new FoodListResponse()
-        //    {
-        //        Foods = new List<Food>() { new Food() { Amount = 1, Name = "banana", Calorie = 20, Id = 1 } }
-        //    };
+        [Fact]
+        public void DraxTest_AddNewFood()
+        {
+            HttpStatusCode expectedStatusCode = HttpStatusCode.OK;
 
-        //    using (var mock = AutoMock.GetLoose())
-        //    {
-        //        mock.Mock<IDraxService>()
-        //            .Setup(x => x.GetAllItems())
-        //            .Returns(foods);
+            var request = new HttpRequestMessage();
+            request.RequestUri = new Uri("https://localhost:44347/api/drax/add?name=banana&amount=1&calorie=20");
+            request.Method = HttpMethod.Post;
 
-        //        var actual = mock.Create<FoodListResponse>();
-        //        var expected = foods;
+            var expected = new FoodListResponse()
+            {
+                Foods = new List<Food>() { new Food() { Amount = 1, Name = "banana", Calorie = 20, Id = 1 } }
+            };
 
-        //        Assert.Equal(expected, actual);
-        //    }                        
-        //}
+            HttpResponseMessage response = HttpClient.SendAsync(request).Result;
+            string responseBodyContent = response.Content.ReadAsStringAsync().Result;
+            FoodListResponse responseData = JsonConvert.DeserializeObject<FoodListResponse>(responseBodyContent);
 
-        //private Mock<IDraxService> draxServiceMoq = new Mock<IDraxService>();
-        //private Mock<IAwsomeMixService> awsomeMixServiceMoq = new Mock<IAwsomeMixService>();
-        //private ApiGuardianController guardianController;
-
-        //[Fact]
-        //public void DraxTest_GetAllItems_Attempt2()
-        //{            
-        //    var foods = new FoodListResponse()
-        //    {
-        //        Foods = new List<Food>() { new Food() { Amount = 1, Name = "banana", Calorie = 20, Id = 1 } }
-        //    };
-
-        //    draxServiceMoq.Setup(x => x.GetAllItems()).Returns(foods);
-
-        //    var actual = draxServiceMoq.Object;
-
-        //    //Assert.Equal(foods, actual);
-        //}
+            Assert.Equal(expectedStatusCode, response.StatusCode);
+            Assert.Equal(expected.Foods[0].Name, responseData.Foods[0].Name);
+            Assert.Equal(expected.Foods[0].Amount, responseData.Foods[0].Amount);
+            Assert.Equal(expected.Foods[0].Calorie, responseData.Foods[0].Calorie);
+        }
     }
 }

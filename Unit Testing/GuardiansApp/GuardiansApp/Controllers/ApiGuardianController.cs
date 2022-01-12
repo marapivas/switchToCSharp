@@ -1,13 +1,7 @@
-﻿using GuardiansApp.Database;
-using GuardiansApp.Interfaces;
+﻿using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
-using GuardiansApp.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace GuardiansApp.Controllers
 {
@@ -17,15 +11,10 @@ namespace GuardiansApp.Controllers
         private IDraxService DraxService { get; set; }
         private IAwsomeMixService AwsomeMixService { get; set; }
        
-        public ApiGuardianController(DraxService draxService, AwsomeMixService awsomeMixService)
+        public ApiGuardianController(IDraxService draxService, IAwsomeMixService awsomeMixService)
         {
             DraxService = draxService;
             AwsomeMixService = awsomeMixService;
-        }
-
-        public ApiGuardianController(DraxService draxService)
-        {
-            DraxService = draxService;
         }
             
         [HttpGet("api/groot")]

@@ -2,11 +2,7 @@
 using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
 using Moq;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xunit;
 
 namespace GuardiansAppTests
@@ -27,10 +23,10 @@ namespace GuardiansAppTests
 
             draxServiceMoq.Setup(x => x.GetAllItems()).Returns(foods);
 
-            var actual = draxServiceMoq;
+            var actual = draxServiceMoq.Object.GetAllItems();
 
             Assert.IsType<FoodListResponse>(actual);
-            //Assert.Equal(foods.Foods, actual.Foods);
+            Assert.Equal(foods, actual);
         }
     }
 }

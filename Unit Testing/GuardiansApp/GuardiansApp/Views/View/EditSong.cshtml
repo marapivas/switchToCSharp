@@ -1,4 +1,4 @@
-﻿@model GuardiansApp.Models.ViewModels.DraxViewModel
+﻿@model GuardiansApp.Models.ViewModels.AwsomeMixViewModel
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -7,39 +7,23 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-    <title>Draxs Calorie Table</title>
+    <title>Awsome Mix Edit</title>
 </head>
 <body>
        
-    <h1>Edit food amount</h1>
+    <h1>Song Edit</h1>
 
     <button type="submit"><a href= "~/">HOME</a></button>
 
-    <button type="submit"><a href= "~/drax/add">ADD New Food</a></button>
+    <button type="submit"><a href= "~/awsome">BACK</a></button>
 
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Amount</th>
-            <th>Calorie</th>
-            
+    <form method= "POST" action= "/awsome/edit/@Model.Song.Id">
 
-        </tr>
+        <label>Edit song rating</label><br>
+        <input type="text" name="rating" placeholder = "new rating...">
+        <button type="submit">Submit</button>
 
-        @foreach (var item in Model.FoodListResponse.Foods)
-        {
-            <tr>
-                <td>@item.Id</td>
-                <td>@item.Name</td>
-                <td>@item.Amount</td>
-                <td>@item.Calorie</td>
-                <td class = "link"><a class= "link" href= "~/drax/delete/@item.Id">DELETE</a></td>
-                <td class = "link"><a class= "link" href="~/drax/edit/@item.Id">EDIT</a></td>
-            </tr>
-        }
-
-    </table>
+    </form>
 
 </body>
 </html>
@@ -94,9 +78,6 @@
         color: red;
     }
 
-    .link {
-        border: none;
-    }
-
-
 </style>
+
+

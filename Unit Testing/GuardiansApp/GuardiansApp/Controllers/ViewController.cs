@@ -69,7 +69,37 @@ namespace GuardiansApp.Controllers
         public IActionResult DraxAddNewFood([FromForm] string name, [FromForm] int amount, [FromForm] int calorie)
         {
             var newfood = new DraxViewModel() { FoodListResponse = DraxService.Add(name, amount, calorie) };
-            return View("DraxCaloriesTable");
+            var foodList = new DraxViewModel() { FoodListResponse = DraxService.GetAllItems() };
+            return View("DraxCaloriesTable", foodList);
+        }
+
+        [HttpGet("drax/delete/{id}")]
+        public IActionResult DraxDeleteFood([FromRoute] int id)
+        {
+            DraxService.Delete(id);
+
+            var foodList = new DraxViewModel() { FoodListResponse = DraxService.GetAllItems() };
+            return View("DraxCaloriesTable", foodList);
+        }
+
+        [HttpGet("drax/edit/{id}")]
+        public IActionResult DraxEditFoodForm([FromRoute] int id)
+        {
+            var food = new DraxViewModel()
+            {
+                Food = DraxService.FindById(id)
+            };
+
+            return View("EditFood", food);
+        }
+
+        [HttpPost("drax/edit/{id}")]
+        public IActionResult DraxEditFood([FromRoute] int id, [FromForm] int amount)
+        {
+            DraxService.Edit(id, amount);
+
+            var foodList = new DraxViewModel() { FoodListResponse = DraxService.GetAllItems() };
+            return View("DraxCaloriesTable", foodList);
         }
 
         [HttpGet("awsome")]
@@ -77,6 +107,49 @@ namespace GuardiansApp.Controllers
         {
             var songList = new AwsomeMixViewModel() { SongList = AwsomeMixService.GetAllSongs() };
 
+            return View("AwsomeMixTable", songList);
+        }
+
+        [HttpGet("awsome/add")]
+        public IActionResult AwsomeMixAddNewSongForm()
+        {
+            return View("AddNewSong");
+        }
+
+        [HttpPost("awsome/add")]
+        public IActionResult AwsomeMixAddNewSongForm([FromForm] string author, [FromForm] string title, [FromForm] string genre, [FromForm] int year, [FromForm] int rating)
+        {
+            var newsong = new AwsomeMixViewModel() { SongList = AwsomeMixService.Add(author, title, genre, year, rating) };
+            var songList = new AwsomeMixViewModel() { SongList = AwsomeMixService.GetAllSongs() };
+            return View("AwsomeMixTable", songList);
+        }
+
+        [HttpGet("awsome/delete/{id}")]
+        public IActionResult AwsomeMixDeleteSong([FromRoute] int id)
+        {
+            AwsomeMixService.Delete(id);
+
+            var songList = new AwsomeMixViewModel() { SongList = AwsomeMixService.GetAllSongs() };
+            return View("AwsomeMixTable", songList);
+        }
+
+        [HttpGet("awsome/edit/{id}")]
+        public IActionResult AwsomeMixEditSongForm([FromRoute] int id)
+        {
+            var song = new AwsomeMixViewModel()
+            {
+                Song = AwsomeMixService.FindById(id)
+            };
+
+            return View("EditSong", song);
+        }
+
+        [HttpPost("awsome/edit/{id}")]
+        public IActionResult AwsomeMixEditSong([FromRoute] int id, [FromForm] int rating)
+        {
+            AwsomeMixService.EditRating(id, rating);
+
+            var songList = new AwsomeMixViewModel() { SongList = AwsomeMixService.GetAllSongs() };
             return View("AwsomeMixTable", songList);
         }
     }
