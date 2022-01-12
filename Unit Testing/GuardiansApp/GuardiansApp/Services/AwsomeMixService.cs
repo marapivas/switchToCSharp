@@ -1,11 +1,12 @@
 ﻿using GuardiansApp.Database;
+using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace GuardiansApp.Services
 {
-    public class AwsomeMixService
+    public class AwsomeMixService : IAwsomeMixService
     {
         private ApplicationDbContext DbContext { get; set; }
 
@@ -79,6 +80,16 @@ namespace GuardiansApp.Services
                 Songs = mix
             };
             return authorSongs;
+        }
+
+        public List<int> GetAllIds()
+        {
+            return DbContext.Songs.Select(x => x.Id).ToList();
+        }
+
+        public List<string> GetAllAuthours()
+        {
+           return DbContext.Songs.Select(x => x.Author).ToList();
         }
     }
 }

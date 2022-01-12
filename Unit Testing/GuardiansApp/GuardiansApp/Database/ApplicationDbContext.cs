@@ -7,6 +7,7 @@ namespace GuardiansApp.Database
     {
         public DbSet<Food> Foods { get; set; }
         public DbSet<Song> Songs { get; set; }
+
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
             

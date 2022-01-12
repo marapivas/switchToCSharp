@@ -1,5 +1,7 @@
+using Autofac.Extras.Moq;
 using GuardiansApp;
 using GuardiansApp.Controllers;
+using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
 using GuardiansApp.Services;
 using Microsoft.AspNetCore.Mvc.Testing;
@@ -96,6 +98,46 @@ namespace GuardiansAppTests
             //assert
             Assert.Equal(expectedStatusCode, response.StatusCode);
             Assert.Equal(expectedError, responseData.Error);
-        }        
+        }
+
+        //[Fact]
+        //public void DraxTest_GetAllItems()
+        //{
+        //    var foods = new FoodListResponse()
+        //    {
+        //        Foods = new List<Food>() { new Food() { Amount = 1, Name = "banana", Calorie = 20, Id = 1 } }
+        //    };
+
+        //    using (var mock = AutoMock.GetLoose())
+        //    {
+        //        mock.Mock<IDraxService>()
+        //            .Setup(x => x.GetAllItems())
+        //            .Returns(foods);
+
+        //        var actual = mock.Create<FoodListResponse>();
+        //        var expected = foods;
+
+        //        Assert.Equal(expected, actual);
+        //    }                        
+        //}
+
+        //private Mock<IDraxService> draxServiceMoq = new Mock<IDraxService>();
+        //private Mock<IAwsomeMixService> awsomeMixServiceMoq = new Mock<IAwsomeMixService>();
+        //private ApiGuardianController guardianController;
+
+        //[Fact]
+        //public void DraxTest_GetAllItems_Attempt2()
+        //{            
+        //    var foods = new FoodListResponse()
+        //    {
+        //        Foods = new List<Food>() { new Food() { Amount = 1, Name = "banana", Calorie = 20, Id = 1 } }
+        //    };
+
+        //    draxServiceMoq.Setup(x => x.GetAllItems()).Returns(foods);
+
+        //    var actual = draxServiceMoq.Object;
+
+        //    //Assert.Equal(foods, actual);
+        //}
     }
 }

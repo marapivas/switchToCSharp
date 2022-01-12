@@ -1,4 +1,5 @@
 ﻿using GuardiansApp.Database;
+using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
 using GuardiansApp.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -10,26 +11,24 @@ using System.Threading.Tasks;
 
 namespace GuardiansApp.Controllers
 {
-    public class GuardianController : Controller
+    public class ApiGuardianController : Controller
     {
 
-        private DraxService DraxService { get; set; }
-        private AwsomeMixService AwsomeMixService { get; set; }
-        private ApplicationDbContext DbContext { get; set; }
-
-        public GuardianController(DraxService draxService, AwsomeMixService awsomeMixService, ApplicationDbContext dbContext)
+        private IDraxService DraxService { get; set; }
+        private IAwsomeMixService AwsomeMixService { get; set; }
+       
+        public ApiGuardianController(DraxService draxService, AwsomeMixService awsomeMixService)
         {
             DraxService = draxService;
             AwsomeMixService = awsomeMixService;
-            DbContext = dbContext;
-        }
-            
-        public IActionResult Index()
-        {
-            return View();
         }
 
-        [HttpGet("groot")]
+        public ApiGuardianController(DraxService draxService)
+        {
+            DraxService = draxService;
+        }
+            
+        [HttpGet("api/groot")]
         public IActionResult GrootTrainslator([FromQuery] string message)
         {
             if (message == null || message.Length == 0)
@@ -41,7 +40,7 @@ namespace GuardiansApp.Controllers
 
         }
 
-        [HttpGet("yondu")]
+        [HttpGet("api/yondu")]
         public IActionResult GetYondusArrowSpeed([FromQuery] double distance, [FromQuery] double time)
         {
                         
@@ -54,7 +53,7 @@ namespace GuardiansApp.Controllers
 
         }
 
-        [HttpGet("rocket")]
+        [HttpGet("api/rocket")]
         public IActionResult AmmunitionStorage([FromHeader]Ship RocketsShip)
         
         {
@@ -63,7 +62,7 @@ namespace GuardiansApp.Controllers
 
         //not finished
 
-        [HttpGet("rocket/fill")]
+        [HttpGet("api/rocket/fill")]
         public IActionResult FillAmmunition([FromQuery] string caliber, 
                                             [FromQuery] int amount, 
                                             [FromHeader] Ship RocketsShip)
@@ -103,7 +102,7 @@ namespace GuardiansApp.Controllers
             return null;
         }
 
-        [HttpGet("drax")]
+        [HttpGet("api/drax")]
         public IActionResult GetDraxCaloriesList()
         {
             var foods = DraxService.GetAllItems();
@@ -111,7 +110,7 @@ namespace GuardiansApp.Controllers
             return Ok(foods);
         }
 
-        [HttpPost("drax/add")]
+        [HttpPost("api/drax/add")]
         public IActionResult AddItem([FromQuery] string name, [FromQuery] int amount, [FromQuery] int calorie)
         {
             if (name == null || amount == 0 || calorie == 0)
@@ -124,12 +123,12 @@ namespace GuardiansApp.Controllers
 
         }
 
-        [HttpDelete("drax/delete")]
+        [HttpDelete("api/drax/delete")]
         public IActionResult DeleteItem([FromQuery] int id)
         {
-            List<int> ids = DbContext.Foods.Select(x => x.Id).ToList();
+            List<int> ids = DraxService.GetAllIds();
 
-            if (id == 0 || !ids.Contains(id))
+            if (!ids.Contains(id))
             {
                 return BadRequest(new ErrorResponse() { Error = "Wrong id" });
             }
@@ -139,12 +138,12 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpPut("drax/update")]
+        [HttpPut("api/drax/update")]
         public IActionResult UpdateAmount([FromQuery] int id, [FromQuery] int amount)
         {
-            List<int> ids = DbContext.Foods.Select(x => x.Id).ToList();
+            List<int> ids = DraxService.GetAllIds(); ;
 
-            if (id == 0 ||  !ids.Contains(id))
+            if (!ids.Contains(id))
             {
                 return BadRequest(new ErrorResponse() { Error = "Wrong id" });
             }
@@ -159,7 +158,7 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpGet("awsome")]
+        [HttpGet("api/awsome")]
         public IActionResult GetAwsomeMix()
         {
             var response = AwsomeMixService.GetAllSongs();
@@ -167,7 +166,7 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpPost("awsome/add")]
+        [HttpPost("api/awsome/add")]
         public IActionResult AddSong([FromQuery] string author, [FromQuery] string title, [FromQuery] string genre, [FromQuery] int year, [FromQuery] int rating)
         {
             if (author == null || title == null)
@@ -180,12 +179,12 @@ namespace GuardiansApp.Controllers
             return Ok(song);
         }
 
-        [HttpDelete("awsome/delete")]
+        [HttpDelete("api/awsome/delete")]
         public IActionResult DeleteSong([FromQuery] int id)
         {
-            List<int> ids = DbContext.Songs.Select(x => x.Id).ToList();
+            List<int> ids = AwsomeMixService.GetAllIds();
 
-            if (id == 0 || !ids.Contains(id))
+            if (!ids.Contains(id))
             {
                 return BadRequest(new ErrorResponse() { Error = "Wrong id" });
             }
@@ -195,10 +194,10 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpPut("awsome/edit")]
+        [HttpPut("api/awsome/edit")]
         public IActionResult EditRating([FromQuery] int id, [FromQuery] int rating)
         {
-            List<int> ids = DbContext.Songs.Select(x => x.Id).ToList();
+            List<int> ids = AwsomeMixService.GetAllIds();
 
             if (id == 0 || !ids.Contains(id))
             {
@@ -210,7 +209,7 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpGet("awsome/favorite")]
+        [HttpGet("api/awsome/favorite")]
         public IActionResult FavoriteSongs([FromQuery] int number)
         {
             if (number == 0)
@@ -223,7 +222,7 @@ namespace GuardiansApp.Controllers
             return Ok(response);
         }
 
-        [HttpGet("awsome/author")]
+        [HttpGet("api/awsome/author")]
         public IActionResult AuthorsSongs([FromQuery] string author)
         {
             if (string.IsNullOrEmpty(author))
@@ -231,7 +230,7 @@ namespace GuardiansApp.Controllers
                 return BadRequest(new ErrorResponse() { Error = "You have to fill author"});
             }
 
-            List<string> auth = DbContext.Songs.Select(x => x.Author).ToList();
+            List<string> auth = AwsomeMixService.GetAllAuthours();
             if (!auth.Contains(author))
             {
                 return BadRequest(new ErrorResponse() { Error = "Author not found" });

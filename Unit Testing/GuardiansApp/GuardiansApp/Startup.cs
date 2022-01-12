@@ -1,17 +1,14 @@
 using GuardiansApp.Database;
+using GuardiansApp.Interfaces;
 using GuardiansApp.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace GuardiansApp
 {
@@ -28,8 +25,8 @@ namespace GuardiansApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddTransient<DraxService>();
-            services.AddTransient<AwsomeMixService>();
+            services.AddTransient<IDraxService, DraxService>();
+            services.AddTransient<IAwsomeMixService, AwsomeMixService>();
 
             ConfigureDb(services);
 

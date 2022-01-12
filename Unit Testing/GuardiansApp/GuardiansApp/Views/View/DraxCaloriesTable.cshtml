@@ -1,0 +1,82 @@
+﻿@model GuardiansApp.Models.ViewModels.DraxViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Draxs Calorie Table</title>
+</head>
+<body>
+       
+    <h1>Draxs Calorie Table</h1>
+
+    <button type="submit"><a href= "~/">HOME</a></button>
+
+    <button type="submit"><a href= "~/drax/add">ADD New Food</a></button>
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Amount</th>
+            <th>Calorie</th>
+
+        </tr>
+
+        @foreach (var item in Model.FoodListResponse.Foods)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Amount</td>
+                <td>@item.Calorie</td>
+                
+            </tr>
+        }
+
+    </table>
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    td{
+        
+        border: thin solid green;
+        padding-left: 5px;
+    }
+
+    th{
+        
+        font-size:105%;
+    }
+
+    table{
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .link{
+        border: none;
+    }
+
+    button{
+        border-radius: 5px;
+    }
+
+    input{
+        border-radius: 5px;
+    }
+
+</style>

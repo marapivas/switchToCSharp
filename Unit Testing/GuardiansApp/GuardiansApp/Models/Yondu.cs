@@ -15,6 +15,10 @@ namespace GuardiansApp.Models
             speed = distance / time;
 
         }
+
+        public Yondu()
+        {
+        }
     }
 
 }

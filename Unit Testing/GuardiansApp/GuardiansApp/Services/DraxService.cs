@@ -1,17 +1,22 @@
 ﻿using GuardiansApp.Database;
+using GuardiansApp.Interfaces;
 using GuardiansApp.Models;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace GuardiansApp.Services
 {
-    public class DraxService
+    public class DraxService : IDraxService
     {
         private ApplicationDbContext DbContext { get; set; }
 
         public DraxService(ApplicationDbContext dbContext)
         {
             DbContext = dbContext;
+        }
+        public DraxService()
+        {
+
         }
 
         public FoodListResponse GetAllItems()
@@ -57,6 +62,11 @@ namespace GuardiansApp.Services
         public Food FindById(int id)
         {
             return DbContext.Foods.Where(f => f.Id == id).First();
+        }
+
+        public List<int> GetAllIds()
+        {
+            return DbContext.Foods.Select(x => x.Id).ToList();
         }
     }
 }

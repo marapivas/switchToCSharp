@@ -1,0 +1,108 @@
+﻿@model GuardiansApp.Models.ViewModels.IndexViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Home</title>
+</head>
+<body>
+       
+    <h1>Guardians of the Galaxy App</h1>
+
+    @if (Model != null)
+    {
+        @if (Model.Error != null)
+        {
+            <h2>ERROR: @Model.Error</h2>
+        }
+    }
+
+    <form method="POST" action="/groot">
+        <label>Groot translate:</label><br>
+        <input type="text" name="message" placeholder = "Fill text to translate..."><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    @if (Model != null)
+    {
+        @if (Model.Groot != null)
+        {
+            <p>@Model.Groot.translated</p>
+        }
+    }
+
+    <form method="POST" action="/yondu">
+        <label>Yondus arrow speed calculator:</label><br>
+        <input type="text" name="distance" placeholder = "Distance..."><br>
+        <input type="text" name="time" placeholder = "Time..."><br>
+        <button type="submit">Submit</button>
+    </form>
+
+    @if (Model != null)
+    {
+        @if (Model.Yondu != null)
+        {
+            <p>Speed: @Model.Yondu.speed</p>
+        }       
+    }
+
+    <form method="Get" action="/drax">
+        <button type="submit">Drax</button>
+    </form>
+
+    <form method="Get" action="/awsome">
+        <button type="submit">Awsome Mix</button>
+    </form>
+
+
+</body>
+</html>
+
+<style>
+
+    body{
+        font-family: 'Montserrat', sans-serif;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    td{
+        
+        border: thin solid green;
+        padding-left: 5px;
+    }
+
+    th{
+        
+        font-size:105%;
+    }
+
+    table{
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .link{
+        border: none;
+    }
+
+    button{
+        border-radius: 5px;
+        margin-top: 3px;
+    }
+
+    input{
+        border-radius: 5px;
+        margin-top: 3px;
+    }
+
+    h2{
+        color: red;
+    }
+
+</style>
