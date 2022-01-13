@@ -1,0 +1,29 @@
+﻿@model QuizApplication.Models.QuestionViewModel
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>The Quiz Game</title>
+</head>
+<body>
+       
+    <h1>Quizz App</h1>
+    @if (Model != null)
+    {
+      <h2>Yor score is: @Model.Questions.Sum(x => x.Point)</h2>  
+    }
+    
+    <ul>
+      <li><a href= "~/question">Add Question</a></li>
+      @if (Model != null)
+        {
+           <li><a href= "">Start Quizz</a></li> 
+        }        
+    </ul>  
+
+</body>
+</html>
